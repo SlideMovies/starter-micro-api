@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "cors-anywhere": "^0.4.4",
-    "global-agent": "^3.0.0",
+    "global-agent": "^3.0.0"
   }
 }
